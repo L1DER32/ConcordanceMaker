@@ -14,3 +14,11 @@ C:\Users\GT-PC2\Dropbox\Concordance\Concordance\obj\Debug\Concordance Maker.pdb
 C:\Users\GT-PC2\Dropbox\Concordance\Concordance\bin\Debug\Concordance Maker.exe
 C:\Users\GT-PC2\Dropbox\Concordance\Concordance\bin\Debug\Concordance Maker.pdb
 C:\Users\GT-PC2\Dropbox\Concordance\Concordance\obj\Debug\Concordance_Maker.Properties.Resources.resources
+C:\Users\GT-PC\Dropbox\C#\Concordance\Concordance\obj\Debug\Concordance Maker.exe
+C:\Users\GT-PC\Dropbox\C#\Concordance\Concordance\obj\Debug\Concordance Maker.pdb
+C:\Users\GT-PC\Dropbox\C#\Concordance\Concordance\bin\Debug\Concordance Maker.exe
+C:\Users\GT-PC\Dropbox\C#\Concordance\Concordance\bin\Debug\Concordance Maker.pdb
+C:\Users\GT-PC\Dropbox\C#\Concordance\Concordance\obj\Debug\Concordance.csprojResolveAssemblyReference.cache
+C:\Users\GT-PC\Dropbox\C#\Concordance\Concordance\obj\Debug\Concordance.Form1.resources
+C:\Users\GT-PC\Dropbox\C#\Concordance\Concordance\obj\Debug\Concordance_Maker.Properties.Resources.resources
+C:\Users\GT-PC\Dropbox\C#\Concordance\Concordance\obj\Debug\Concordance.csproj.GenerateResource.Cache

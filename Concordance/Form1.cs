@@ -128,7 +128,7 @@ namespace Concordance
                     if (wordsForComparing.Contains(word))
                     {
                         #region algorithm
-                        for (int k = 0; k < wordsInParagraph.Length; k++)
+                        for (int k = 0; k < wordsForComparing.Length; k++)
                         {
                             //getting the context parts on left and right sides
                             //if there is a match
